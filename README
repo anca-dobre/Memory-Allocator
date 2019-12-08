@@ -2,8 +2,7 @@ am declarat variabilele globale: dim-dimensiunea arenei;
 				vector-arena
 				prim si ultim- indicele de start al primului bloc,
 respectiv cel al ultimului bloc;
-functia "functie" are rolul de a returna o valoare pe 4 octeti;
-iar functia razvan atribuie o valoare pe 4 octeti; 
+
 	   
 INITIALIZE: am folosit calloc, astfel ca val este setata la 0;
 FINALIZE: se elibereaza memoria
